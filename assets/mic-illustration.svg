@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="t d">
+<title id="t">Podcast microphone illustration</title><desc id="d">A warm gold microphone with circular line accents and the words Good stories start here.</desc>
+<defs><filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="24" stdDeviation="22" flood-color="#173f37" flood-opacity=".16"/></filter></defs>
+<rect width="720" height="720" fill="#fff"/>
+<g fill="none" stroke="#e7e8de" stroke-width="2"><circle cx="360" cy="350" r="245"/><circle cx="360" cy="350" r="190"/><circle cx="360" cy="350" r="135"/></g>
+<text x="52" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="5" fill="#9ea399">TIME 2 TALK</text>
+<text x="566" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4" fill="#9ea399">STUDIO / 01</text>
+<g filter="url(#s)" transform="translate(183,125)">
+<rect x="118" y="38" width="120" height="260" rx="60" fill="#e3bb72" transform="rotate(-9 178 168)"/>
+<g stroke="#8d7145" stroke-width="4" stroke-linecap="round" opacity=".8">
+<path d="M138 90l70-11M135 110l74-12M132 130l76-12M130 150l78-12M128 170l80-12M126 190l82-12M124 210l84-12M122 230l86-12"/>
+</g>
+<path d="M86 214v26c0 87 57 143 132 143s132-56 132-143v-26" fill="none" stroke="#e3bb72" stroke-width="18" stroke-linecap="round"/>
+<path d="M218 383v74" stroke="#b58d4f" stroke-width="15" stroke-linecap="round"/><path d="M154 468c49 18 103 18 157 0" stroke="#566d65" stroke-width="17" stroke-linecap="round"/>
+<circle cx="192" cy="267" r="7" fill="#163f37"/>
+</g>
+<text x="468" y="350" font-family="Georgia, Times New Roman, serif" font-size="36" font-style="italic" fill="#9b7d4f">Good stories</text>
+<text x="468" y="390" font-family="Georgia, Times New Roman, serif" font-size="36" font-style="italic" fill="#9b7d4f">start here.</text>
+<text x="497" y="612" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="4" fill="#9ea399">REAL PEOPLE. REAL</text>
+<text x="525" y="630" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="4" fill="#9ea399">CONVERSATIONS.</text>
+</svg>
