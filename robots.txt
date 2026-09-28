@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jasvin-singh.github.io/time2talk/sitemap.xml
